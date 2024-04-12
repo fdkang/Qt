@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>qrc/20091201_0c5e3cb96bf053f6f8f43xlWxvBTLEnr.png</file>
+        <file>qrc/20091201_2a0f6976569659175fd3PEFlPFnrDS1R.png</file>
+        <file>qrc/20091201_b321df1d9e60373380a0IQzepnVIU3HS.png</file>
+        <file>qrc/20091201_e59eb6d747cef0b2bc89nKJwRb2QIxXh.png</file>
+        <file>qrc/add.png</file>
+        <file>qrc/Bin (empty).png</file>
+        <file>qrc/butterfly.png</file>
+        <file>qrc/butterfly1.png</file>
+        <file>qrc/cleanport.png</file>
+        <file>qrc/down.png</file>
+        <file>qrc/Edit.png</file>
+        <file>qrc/E-Mail.png</file>
+        <file>qrc/fileopen.png</file>
+        <file>qrc/Files.png</file>
+        <file>qrc/Floppy.png</file>
+        <file>qrc/Frame.jpg</file>
+        <file>qrc/icon.ico</file>
+        <file>qrc/Left.png</file>
+        <file>qrc/logo.png</file>
+        <file>qrc/Luffy.png</file>
+        <file>qrc/LuffyQ.png</file>
+        <file>qrc/mario.gif</file>
+        <file>qrc/mesage.png</file>
+        <file>qrc/MSN-Messenger.png</file>
+        <file>qrc/New.png</file>
+        <file>qrc/OnePiece.png</file>
+        <file>qrc/Pause.png</file>
+        <file>qrc/reload.png</file>
+        <file>qrc/Right.png</file>
+        <file>qrc/save.png</file>
+        <file>qrc/Start.png</file>
+        <file>qrc/stop.png</file>
+        <file>qrc/Sunny.jpg</file>
+        <file>qrc/sunny.png</file>
+        <file>qrc/textbold.png</file>
+        <file>qrc/textcolor.png</file>
+        <file>qrc/textitalic.png</file>
+        <file>qrc/textunder.png</file>
+        <file>qrc/Thumbs.db</file>
+        <file>qrc/time.png</file>
+        <file>qrc/up.png</file>
+        <file>qrc/User.png</file>
+        <file>qrc/write2file.png</file>
+    </qresource>
+</RCC>
