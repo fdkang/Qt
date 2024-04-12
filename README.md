@@ -16,4 +16,4 @@
 
 ### 界面预览：
 
-![main](https://github.com/fdkang/Qt_TextEdit/blob/master/pic/main.png)
+![main](./pic/main.png)
