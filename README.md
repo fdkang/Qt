@@ -16,4 +16,4 @@
 
 ### 界面预览：
 
-![main](D:\Qt\QtProject\QTtextEdit\pic\main.png)
+![main](https://github.com/fdkang/Qt_TextEdit/blob/master/pic/main.png))
